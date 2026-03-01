@@ -72,8 +72,9 @@ Timings are reported as **segment duration (ms)** — one segment per full anima
 | 3 | + Rasterisation SIMD (triangle 8-wide) |
 | 4 | + Tile-based multithreading |
 
+![unnamed](https://github.com/user-attachments/assets/246dad12-0056-4333-bef0-527d4af80668)
 
-All three scenes show clear speedup across these stages. See  the report PDF for the full speedup vs. stage graph and methodology. 
+All three scenes show clear speedup across these stages. 
 
 ---
 
