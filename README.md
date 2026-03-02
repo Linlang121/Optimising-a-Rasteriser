@@ -62,6 +62,10 @@ Three scenes are used for benchmarking:
 - **Scene 2:** 6×8 grid of cubes plus a moving sphere.
 - **Scene 3:** Six spheres orbiting in the XY plane plus a 10×10 grid of static spheres (custom scene for mixed workload).
 
+
+https://github.com/user-attachments/assets/eabe97d4-6487-429a-9bde-1647614aacbb
+
+
 Timings are reported as **segment duration (ms)** — one segment per full animation cycle (e.g. camera back-and-forth, or two orbits in Scene 3). **Speedup** is baseline time (Stage 0) divided by time at each stage.
 
 | Stage | Added optimisation |
